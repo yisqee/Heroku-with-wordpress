@@ -1,6 +1,6 @@
 {
   "name": "WordPress on Heroku",
-  "description": "在 Heroku 部署 Wordpress 5.8.2",
+  "description": "在 Heroku 部署 Wordpress 5.9",
   "repository": "https://github.com/mcxiaolan/WordPress-For-Heroku/tree/master",
   "website": "https://github.com/mcxiaolan/WordPress-For-Heroku",
   "keywords": ["wordpress", "blog" ],
